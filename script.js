@@ -1,4 +1,4 @@
 arlert("sejabem vindo")
-function contrato(){
+function contato(){
   alert("seja bem vindo(a),"+document.queryselector(#nome").volume+"1";
 }                                                    
