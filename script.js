@@ -1,4 +1,4 @@
-arlert("sejabem vindo")
+alert("Seja bem vindo!");
 function contato(){
-  alert("seja bem vindo(a),"+document.queryselector(#nome").volume+"1";
-}                                                    
+  alert("seja bem vindo(a), "+document.querySelector("#nome").value+"!");
+}                                                  
